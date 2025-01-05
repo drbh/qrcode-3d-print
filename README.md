@@ -29,3 +29,10 @@ uv run main.py
 ```
 
 this should output a `qr_code_3d.gltf` file, which can be used in any 3D viewer/downstream application, and the QR code should be visible in the OCP viewer in VSCode.
+
+<img width="1418" alt="ocpviewer" src="https://github.com/user-attachments/assets/06157e6d-3d44-48f1-9bff-439c6e6fb90c" />
+
+
+## Output
+
+<img width="800" alt="qrcode" src="https://github.com/user-attachments/assets/ccbbb919-05d3-4a21-b823-6dc6251d0370" />
